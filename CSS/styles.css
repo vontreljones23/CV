@@ -1,0 +1,21 @@
+body {
+  background-color: olive;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: black;
+    border-width: 5px;
+    width: 10%;
+  }
+
+img {
+  background-color: olive;
+  height: 400px
+}
+img:hover {
+  background-color: gold;
+}
+h1 {color: black;}
+
+h3 {color:darkolivegreen;}
